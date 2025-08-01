@@ -1,0 +1,92 @@
+
+
+
+@font-face {
+  font-family: "ITC Clearface";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/itc_clearface/itcclearface_n4.0b8e5be1178a7d02f1cb5b4354ada58ec706fc90.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=f34e658db8e96b02819707d9deb4940d6ffe47dd1cd9264148339fdf3b95d07d") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/itc_clearface/itcclearface_n4.3e5bedaa384b59e204df7f200155500d48e610ba.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=e927dbf29c2610dd151b8639ee7520c79b050d32c8d20e64a005c0609061b4c5") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=d990454cdbde59d16ed4161eda3f9a25d5034d723b2c5886b23a27401d2ab49d") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=060e7dac7feea65b6655aaee09d37690d028080550efda04e90a5a21081d9284") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=87ff8287a5d1baf027ffa43a3482ecb8c807f933066d7d3515138680682446fb") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=35a776bd681e3b256ce71d4e938dc5b5734c6adb2be4ac970cf5a447437ffa87") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "ITC Clearface";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/itc_clearface/itcclearface_n7.9f5e17613f1c79bf939e997402c6a337cb5a1918.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=42cf8ea4886ba11340e261c5fd6909cc4aafbb815fa0a26b176fe0cd37b00f91") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/itc_clearface/itcclearface_n7.e3ea15eceb7664d2c5489ced18cca9f56fd7fa47.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=0bdf2a9a73629c733fd1b8c84858a3bbec5621818f52d8f20e88399b9f3aa982") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n6.08f6a09127d450aa39c74986de08fd8fa84e6a11.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=d40093420526208c3f7cdbc04db441baeccd1d7269f595cb88a9bb8229fbd57b") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n6.bd2f76897d6f40c767db7c40226916ec7b6ffc65.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=71e2574658da19e6d9f14d91651626e0592663cca249b098221b8598f43caa9d") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=87ff8287a5d1baf027ffa43a3482ecb8c807f933066d7d3515138680682446fb") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=35a776bd681e3b256ce71d4e938dc5b5734c6adb2be4ac970cf5a447437ffa87") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_i4.f1583d9f457b68e44fbda187a48b4096d547d7f4.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=b0eaf2b0eb5ea83c9742ce94c9cf6348a965bba3dd6ac4809943dc61a681d13c") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_i4.67fb53a3e0351125941146246183577ae8d8bf23.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=2e4ea32e293c40ff9793e9d77da8d0f88a3879df1e3c149f03816ad3aa220740") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_i5.2d1a6d537e5b485482d6bcca34a56cc10d441a55.woff2?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=65ead41eed9cc49096851cdcfcf5b899cc3c5a81ee850e04e65db0f04b5a2c35") format("woff2"),
+       url("//boujeeandspiritual.com/cdn/fonts/avenir_next/avenirnext_i5.fcfa37c68ca483c41031623bfae4701d99bb4b95.woff?h1=bWludGFzLW1vc3QtaGlnaC1pbnNwaXJlZC1ib3V0aXF1ZS5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c3Bpcml0dWFsYW5kYm91amVlLm15c2hvcGlmeS5jb20&h3=Ym91amVlYW5kc3Bpcml0dWFsLmNvbQ&hmac=d663968e703de5b0556eae01f3a9e2bd2da8514474395635256b36072200b4a8") format("woff");
+}
+
+
