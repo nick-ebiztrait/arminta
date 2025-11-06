@@ -23,7 +23,7 @@
             "kicker": "𝑩𝒐𝒖𝒋𝒆𝒆 & 𝑺𝒑𝒊𝒓𝒊𝒕𝒖𝒂𝒍 𝑴𝒆𝒕𝒂𝒑𝒉𝒚𝒔𝒊𝒄𝒂𝒍 𝑷𝒍𝒆𝒂𝒔𝒖𝒓𝒆𝒔.",
             "title": "Intuitive Readings",
             "richtext": "<p>Unlock Clarity with Expert Intuitive Readings</p>",
-            "text_align": "align--middle-center",
+            "text_align": "align--top-center",
             "text_color": "text--black",
             "link_text": "SHOP PRODUCT",
             "link": "shopify://products/psychic-reading",
@@ -81,6 +81,7 @@
         "text_6B34Gi",
         "message_xhRVqE"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "#ff9fbc",
         "color": "#ffffff",
