@@ -15,8 +15,8 @@
         "image_GX48CK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1000003044.jpg",
-            "mobile_image": "shopify://shop_images/1000003044.jpg",
+            "image": "shopify://shop_images/1000003047_2.png",
+            "mobile_image": "shopify://shop_images/1000003047_2.png",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "overlay_color": "#000000",
